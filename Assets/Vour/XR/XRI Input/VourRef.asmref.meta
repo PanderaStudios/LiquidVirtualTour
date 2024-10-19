@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e8cf52b935e280a419cbe39fcd734a77
+AssemblyDefinitionReferenceImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 3.1.1
+  assetPath: Assets/Vour/XR/XRI Input/VourRef.asmref
+  uploadId: 603814

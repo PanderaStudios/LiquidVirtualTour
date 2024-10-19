@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c1c60882e05ff284bbe860bb0a8d078c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 3.1.1
+  assetPath: Assets/WebGLTemplates/Vour/TemplateData/favicon.ico
+  uploadId: 603814

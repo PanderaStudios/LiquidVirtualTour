@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: efe010d8f4a62874fb27c131379bba0e
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 3.1.1
+  assetPath: Assets/WebGLTemplates/Vour FullScreen/index.html
+  uploadId: 603814

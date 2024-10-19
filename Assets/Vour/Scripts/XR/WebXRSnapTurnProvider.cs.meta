@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 357b46acba1d454fb5b71fb4657a6553
+timeCreated: 1665319543
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 3.1.1
+  assetPath: Assets/Vour/Scripts/XR/WebXRSnapTurnProvider.cs
+  uploadId: 603814

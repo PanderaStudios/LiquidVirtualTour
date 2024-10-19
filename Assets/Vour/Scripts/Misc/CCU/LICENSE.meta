@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e56c61697b2566f4b99912c927f79f6e
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188053
+  packageName: Vour - Virtual Tour Creation Tool
+  packageVersion: 3.1.1
+  assetPath: Assets/Vour/Scripts/Misc/CCU/LICENSE
+  uploadId: 603814
